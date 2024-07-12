@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sd025" alt="sd025" /></a> </p>
 
-- 🔭 I’m currently working on **NextJS, TypeScript and NestJS**
+- 🔭 I’m currently working on **Golang, TypeScript and NestJS**
 
 - 👯 I’m looking to collaborate on **Backend Projects**
 
