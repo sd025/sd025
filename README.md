@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Backend Projects**
 
-- 🤝 I’m currently learning **Graphql, PostgreSQL, Docker and System Design**
+- 🤝 I’m currently learning **FastAPI, PostgreSQL, Docker and System Design**
 
 - 💬 Ask me about **React, NodeJs and JavaScript**
 
